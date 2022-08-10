@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-form {
+  width: 70%;
+  margin: auto;
+  padding: 5rem;
+}
+
+.answer,
+.question {
+  padding: 20px 0;
+}
+
+.options,
+.response {
+  padding: 10px;
+}
